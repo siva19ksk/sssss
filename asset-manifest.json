@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weight/static/css/main.93545f59.css",
+    "main.js": "/Weight/static/js/main.2a79cc7b.js",
+    "static/media/overweight.png": "/Weight/static/media/overweight.d289cb46e9633c985346.png",
+    "static/media/healthy.png": "/Weight/static/media/healthy.9343f93bce37d792e548.png",
+    "static/media/underweight.png": "/Weight/static/media/underweight.59ea1528911569173fa9.png",
+    "index.html": "/Weight/index.html",
+    "main.93545f59.css.map": "/Weight/static/css/main.93545f59.css.map",
+    "main.2a79cc7b.js.map": "/Weight/static/js/main.2a79cc7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93545f59.css",
+    "static/js/main.2a79cc7b.js"
+  ]
+}
